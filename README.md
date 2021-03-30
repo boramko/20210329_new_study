@@ -3,7 +3,10 @@
 
 
 ## 기술스펙
- - 자바스크립트
- - 자바
- - C언어
- - DB (오라클)
+ - JavaScript
+ - Java
+ - C Language
+ - DB (Oracle)
+ - GitHub
+ - Jenkins
+ - Angular JS
