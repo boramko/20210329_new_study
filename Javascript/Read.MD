@@ -15,10 +15,11 @@ var : 선언, 초기화 단계가 한번에 이루어진다.
 
 ※ Temporal Dead Zone(TDZ) - 초기화되지 않는 변수가 있는곳  
 <img src="https://dmitripavlutin.com/static/7973b25e51eb97f6d330c941600f7ad8/7c84e/temporal-dead-zone-in-javascript.webp" width="700" height="370">
+>https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/
 
 
 <br>
-기본 변수 선언 단계 : **선언->초기화->할당**  
+기본 변수 선언 단계 : 선언->초기화->할당 
 
 ``` javascript
   console.log(abc); // undefined  TDZ 발생
